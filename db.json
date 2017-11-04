@@ -1,62 +1,64 @@
-"items": [
-  {
-    "External ID": "12000",
-    "Item Name/Number": "CottCrewSweat",
-    "Display Name/Code": "Cotton Crewneck Sweater",
-    "Matrix Type": "Parent Matrix Item"
-  },
-  {
-    "External ID": "12011",
-    "Item Name/Number": "CottCrewSweat-GL",
-    "Display Name/Code": "Cotton Crewneck Sweater",
-    "Color": "Green",
-    "Size": "Large",
-    "Matrix Type": "Child Matrix Item",
-    "Subitem of": "CottCrewSweat"
-  },
-  {
-    "External ID": "12012",
-    "Item Name/Number": "CottCrewSweat-GS",
-    "Display Name/Code": "Cotton Crewneck Sweater",
-    "Color": "Green",
-    "Size": "Small",
-    "Matrix Type": "Child Matrix Item",
-    "Subitem of": "CottCrewSweat"
-  },
-  {
-    "External ID": "12021",
-    "Item Name/Number": "CottCrewSweat-GM",
-    "Display Name/Code": "Cotton Crewneck Sweater",
-    "Color": "Green",
-    "Size": "Medium",
-    "Matrix Type": "Child Matrix Item",
-    "Subitem of": "CottCrewSweat"
-  },
-  {
-    "External ID": "12022",
-    "Item Name/Number": "CottCrewSweat-BL",
-    "Display Name/Code": "Cotton Crewneck Sweater",
-    "Color": "Blue",
-    "Size": "Large",
-    "Matrix Type": "Child Matrix Item",
-    "Subitem of": "CottCrewSweat"
-  },
-  {
-    "External ID": "12031",
-    "Item Name/Number": "CottCrewSweat-BS",
-    "Display Name/Code": "Cotton Crewneck Sweater",
-    "Color": "Blue",
-    "Size": "Small",
-    "Matrix Type": "Child Matrix Item",
-    "Subitem of": "CottCrewSweat"
-  },
-  {
-    "External ID": "12032",
-    "Item Name/Number": "CottCrewSweat-BM",
-    "Display Name/Code": "Cotton Crewneck Sweater",
-    "Color": "Blue",
-    "Size": "Medium",
-    "Matrix Type": "Child Matrix Item",
-    "Subitem of": "CottCrewSweat"
-  }
-]
+{
+	"items": [
+	  {
+		"External ID": "12000",
+		"Item Name/Number": "CottCrewSweat",
+		"Display Name/Code": "Cotton Crewneck Sweater",
+		"Matrix Type": "Parent Matrix Item"
+	  },
+	  {
+		"External ID": "12011",
+		"Item Name/Number": "CottCrewSweat-GL",
+		"Display Name/Code": "Cotton Crewneck Sweater",
+		"Color": "Green",
+		"Size": "Large",
+		"Matrix Type": "Child Matrix Item",
+		"Subitem of": "CottCrewSweat"
+	  },
+	  {
+		"External ID": "12012",
+		"Item Name/Number": "CottCrewSweat-GS",
+		"Display Name/Code": "Cotton Crewneck Sweater",
+		"Color": "Green",
+		"Size": "Small",
+		"Matrix Type": "Child Matrix Item",
+		"Subitem of": "CottCrewSweat"
+	  },
+	  {
+		"External ID": "12021",
+		"Item Name/Number": "CottCrewSweat-GM",
+		"Display Name/Code": "Cotton Crewneck Sweater",
+		"Color": "Green",
+		"Size": "Medium",
+		"Matrix Type": "Child Matrix Item",
+		"Subitem of": "CottCrewSweat"
+	  },
+	  {
+		"External ID": "12022",
+		"Item Name/Number": "CottCrewSweat-BL",
+		"Display Name/Code": "Cotton Crewneck Sweater",
+		"Color": "Blue",
+		"Size": "Large",
+		"Matrix Type": "Child Matrix Item",
+		"Subitem of": "CottCrewSweat"
+	  },
+	  {
+		"External ID": "12031",
+		"Item Name/Number": "CottCrewSweat-BS",
+		"Display Name/Code": "Cotton Crewneck Sweater",
+		"Color": "Blue",
+		"Size": "Small",
+		"Matrix Type": "Child Matrix Item",
+		"Subitem of": "CottCrewSweat"
+	  },
+	  {
+		"External ID": "12032",
+		"Item Name/Number": "CottCrewSweat-BM",
+		"Display Name/Code": "Cotton Crewneck Sweater",
+		"Color": "Blue",
+		"Size": "Medium",
+		"Matrix Type": "Child Matrix Item",
+		"Subitem of": "CottCrewSweat"
+	  }
+	]
+}
