@@ -59,7 +59,7 @@
 		"BillAddressInfoNameFull": "test test",
 		"BillAddressInfoNameLast": "test",
 		"BillAddressInfoNameFirst": "test",
-		"BillAddressInfoEmail": "test@celigo"
+		"BillAddressInfoEmail": "test@celigo.com"
 	},
 	"nlobjRecordType": "salesorder"
 }]
