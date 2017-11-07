@@ -4,7 +4,10 @@
 		"External ID": "12000",
 		"Item Name/Number": "CottCrewSweat",
 		"Display Name/Code": "Cotton Crewneck Sweater",
-		"Matrix Type": "Parent Matrix Item"
+		"Color": "",
+		"Size": "",
+		"Matrix Type": "Parent Matrix Item",
+		"Subitem of": ""
 	  },
 	  {
 		"External ID": "12011",
