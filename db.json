@@ -1,66 +1,221 @@
 {
 	"data": [{
-	"test": "******",
-	"__io_token": "b7ca573599914e22850b869beb5c0359",
-	"documentIndex": 0,
-	"nlobjSublistIds": {
-		"item": {
-			"lines": [
-				{
-					"ItemQuantity": "2",
-					"ItemCode": "DD641",
-					"ItemYahooIndex": "0"
-				},
-				{
-					"ItemQuantity": "1",
-					"ItemCode": "DD522",
-					"ItemYahooIndex": "1"
-				},
-				{
-					"ItemQuantity": "2",
-					"ItemCode": "DD447",
-					"ItemYahooIndex": "2"
-				},
-				{
-					"ItemQuantity": "1",
-					"ItemCode": "DD492",
-					"ItemYahooIndex": "3"
-				},
-				{
-					"ItemQuantity": "1",
-					"ItemCode": "DD220",
-					"ItemYahooIndex": "4"
-				}
-			]
-		}
-	},
-	"nlobjFieldIds": {
-		"AVSResponse": "YYY",
-		"ShippingCost": "0.00",
-		"PaymentMethod": "MasterCard",
-		"CardApprovalNumber": "09801P",
-		"Shipping": "Standard (4-11 business days)",
-		"BillAddressInfoShippingInstructions": "",
-		"OrderId": "test",
-		"ShipAddressInfoCountry": "US United States",
-		"ShipAddressInfoZip": "97229",
-		"ShipAddressInfoState": "OR",
-		"ShipAddressInfoCity": "Portland",
-		"ShipAddressInfoAddress2": "",
-		"ShipAddressInfoAddress1": "7305",
-		"ShipAddressInfoNameFull": "test test test",
-		"BillAddressInfoCountry": "US United States",
-		"BillAddressInfoZip": "98590",
-		"BillAddressInfoState": "WA",
-		"BillAddressInfoCity": "Yelm",
-		"BillAddressInfoAddress2": "",
-		"BillAddressInfoAddress1": "PO Box",
-		"BillAddressInfoPhone": "9999999999",
-		"BillAddressInfoNameFull": "test test test",
-		"BillAddressInfoNameLast": "test",
-		"BillAddressInfoNameFirst": "test",
-		"BillAddressInfoEmail": "test@celigo.com"
-	},
-	"nlobjRecordType": "salesorder"
+  "RefInfo": [
+    {
+      "RefIDQual": [
+        {
+          "_": "PO"
+        }
+      ],
+      "RefID": [
+        {
+          "_": "POCIGDS0001038"
+        }
+      ]
+    },
+    {
+      "RefIDQual": [
+        {
+          "_": "IN"
+        }
+      ],
+      "RefID": [
+        {
+          "_": "8012176717"
+        }
+      ]
+    },
+    {
+      "RefIDQual": [
+        {
+          "_": "ON"
+        }
+      ],
+      "RefID": [
+        {
+          "_": "I004974176"
+        }
+      ]
+    }
+  ],
+  "ContactFuncCode": [
+    {
+      "_": "IC"
+    }
+  ],
+  "ContactName": [
+    {
+      "_": "Matt Patterson"
+    }
+  ],
+  "ContainerInfo": [
+    {
+      "ContainerID": [
+        {
+          "_": "919414074545388"
+        }
+      ],
+      "ShipToName": [
+        {
+          "_": "FRANCHISE WORLD HDQRTS, LLC"
+        }
+      ],
+      "ShipToAddr1": [
+        {
+          "_": "325 Sub Way"
+        }
+      ],
+      "ShipToAddr2": [
+        {}
+      ],
+      "ShipToAddr3": [
+        {}
+      ],
+      "ShipToCity": [
+        {
+          "_": "Milford"
+        }
+      ],
+      "ShipToStateProv": [
+        {
+          "_": "CT"
+        }
+      ],
+      "ShipToPostalCode": [
+        {
+          "_": "06461"
+        }
+      ],
+      "DateShipped": [
+        {
+          "_": "12/12/17"
+        }
+      ],
+      "DateInvoiced": [
+        {
+          "_": "12/12/17"
+        }
+      ],
+      "Weight": [
+        {
+          "_": "0.600"
+        }
+      ],
+      "WhseDesc": [
+        {
+          "_": "SWEDESBORO, NJ"
+        }
+      ],
+      "ShipVia": [
+        {
+          "_": "FEDX GRND"
+        }
+      ],
+      "ContainerValue": [
+        {
+          "_": "963.86"
+        }
+      ],
+      "HandlingCharge": [
+        {
+          "_": "2.00"
+        }
+      ],
+      "CODCharge": [
+        {
+          "_": "0.00"
+        }
+      ],
+      "DebitCredit": [
+        {
+          "_": "0.00"
+        }
+      ],
+      "NetFreightCharge": [
+        {
+          "_": "9.80"
+        }
+      ],
+      "TaxCharge": [
+        {
+          "_": "0.00"
+        }
+      ],
+      "StateFee": [
+        {
+          "_": "0.00"
+        }
+      ],
+      "TotalOrderValue": [
+        {
+          "_": "975.66"
+        }
+      ],
+      "ItemInfo": [
+        {
+          "IIAssignedID": [
+            {
+              "_": "000101"
+            }
+          ],
+          "AssignedID": [
+            {
+              "_": "000001"
+            }
+          ],
+          "ProductIDQual": [
+            {
+              "_": "VP"
+            }
+          ],
+          "ProductID": [
+            {
+              "_": "11062104"
+            }
+          ],
+          "ProductIDQual2": [
+            {
+              "_": "MG"
+            }
+          ],
+          "ProductID2": [
+            {
+              "_": "C2K00AA"
+            }
+          ],
+          "ProductDesc": [
+            {
+              "_": "AMD FIREPRO W7000 4GB VIDADPT"
+            }
+          ],
+          "QtyShipped": [
+            {
+              "_": "1"
+            }
+          ],
+          "SerialInd": [
+            {
+              "_": "N"
+            }
+          ],
+          "ShipVia": "FEDX GRND",
+          "WhseDesc": "SWEDESBORO, NJ",
+          "Weight": "0.600",
+          "DateShipped": "12/12/17"
+        }
+      ],
+      "NbrOfItems": [
+        {
+          "_": "1"
+        }
+      ],
+      "test": "919414074545388"
+    }
+  ],
+  "__td_soid": "I004974176",
+  "__td_invoiceid": "8012176717",
+  "__td_id": "POCIGDS0001038",
+  "ErrorInfo": {},
+  "__so_id": "3332540"
 }]
 }
